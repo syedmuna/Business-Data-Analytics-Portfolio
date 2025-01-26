@@ -4,21 +4,6 @@
 Hello everyone! My name is Syed Munazir, and this is my portfolio.
 I have a background in Business Analytics and Data Analytics.
 
-**Proficient in:**
-**Programming Languages:** Python, SQL, JavaScript, HTML.
-
-**Core Skills:** Requirements Analysis/Gathering, Process Mapping, Project Planning, Data Analysis, Stake-
-holder Engagement, Business Process Optimization, System Integration, Data Modeling, Problem Solving,
-Agile & Waterfall Methods, Documentation & Reporting, Change Management, Client Facing, and Team
-Building.
-
-**Technology Skills:** Data Visualization, Data Storytelling, API Integration, ETL Process, ERP Systems,
-MS Suite, JIRA, Confluence, CRM Systems, RESTful APIs.
-
-**Interests:** Data-Driven Decision Making, Digital Transformation, Process Automation, Predictive Analytics,
-Data Analytics, Machine Learning, Business Intelligence, Problem-Solving, Strategic Planning.
-
-
 **Project 1: Real estate US SQL and Power BI analysis**
 Description: The main goals of this project are:
 1) To clean the dataset from Kaggle about real estate in the United States using SQL,
