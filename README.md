@@ -3,6 +3,7 @@
 ## About Me  
 Hi there! 👋  
 I’m **Syed Munazir Shajahan**, a Business Analyst with over 4 years of experience in requirement analysis, workflow optimization, project planning, and delivering scalable digital solutions. I specialize in aligning IT initiatives with business objectives and leveraging data-driven insights to streamline processes and improve decision-making. Authorized to work in Ireland **(Stamp 1G)**.  
+
 ---
 ## Portfolio Projects  
 
