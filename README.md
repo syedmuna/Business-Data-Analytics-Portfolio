@@ -48,8 +48,8 @@ Let’s connect and collaborate!
 - **Skills:** Analytical Thinking, Data Cleaning, Data Analysis, Data Visualization  
 - **Tools Used:** BigQuery SQL, Power BI  
 - **Code & Dashboards:**  
-  - SQL Scripts: [data_cleaning.sql](https://github.com/yourusername/real-estate-sql-analysis/data_cleaning.sql), [data_exploration.sql](https://github.com/yourusername/real-estate-sql-analysis/data_exploration.sql)  
-  - Power BI Dashboards: [real-estate-dashboards.pbix](https://github.com/yourusername/real-estate-sql-analysis/real-estate-dashboards.pbix), [real-estate-dashboards.pdf](https://github.com/yourusername/real-estate-sql-analysis/real-estate-dashboards.pdf)  
+  - SQL Scripts: US_Real_Estate_DataAnalysis/Data_cleaning.sql, US_Real_Estate_DataAnalysis/Exploring_data.sql
+  - Power BI Dashboards: US_Real_Estate_DataAnalysis/Real Estate USA Dashboards.pbix, US_Real_Estate_DataAnalysis/Real-Estate USA Dashboards.pdf
 ---
 
 ## Certifications  
