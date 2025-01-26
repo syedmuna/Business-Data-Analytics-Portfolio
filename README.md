@@ -1,4 +1,4 @@
-# Syed Munazir -> Business_Analytics Portfolio
+# Syed Munazir -> Business Analytics Portfolio
 
 **About Me**
 Hello everyone! My name is Syed Munazir, and this is my portfolio.
