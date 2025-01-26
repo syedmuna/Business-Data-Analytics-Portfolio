@@ -33,7 +33,8 @@ I’m **Syed Munazir Shajahan**, a Business Analyst with over 4 years of experie
 - **Tools Used:** BigQuery SQL, Power BI  
 - **Code & Dashboards:**  
   - SQL Scripts: [Data_Cleaning.sql](US_Real_Estate_DataAnalysis/Data_cleaning.sql), [Exploring_data.sql](US_Real_Estate_DataAnalysis/Exploring_data.sql)
-  - Power BI Dashboards: [Dashboard](US_Real_Estate_DataAnalysis/Real-Estate USA Dashboards.pdf)
+  - Power BI Dashboards: [Dashbord](https://github.com/syedmuna/Business-Analytics/blob/main/US_Real_Estate_DataAnalysis/Real-Estate%20USA%20Dashboards.pdf)
+
 
 ## Certifications  
 - Google Data Analytics Certificate  
