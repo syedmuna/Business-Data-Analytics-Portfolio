@@ -35,11 +35,21 @@ Let’s connect and collaborate!
 - **Tools Used:** Excel (Pivot Tables, Charts, Dashboards)  
 - **Code:** [Adidas Sales Analysis](https://github.com/yourusername/adidas-sales-analysis)  
 
-### 3. **ETL Pipelines Project**  
-- **Description:** Designed an ETL pipeline for transforming raw data into meaningful insights.  
-- **Skills:** Data Extraction, Transformation, and Loading  
-- **Tools Used:** Python, SQL  
-
+### 3. **Real Estate US SQL and Power BI Analysis**  
+- **Description:**  
+  The main goals of this project were:  
+  1. To clean the dataset from Kaggle about real estate in the United States using SQL.  
+  2. Explore data in BigQuery.  
+  3. Group and prepare data for visualization in Power BI.  
+  4. Create comprehensive dashboards, including:  
+     - Interactive property stats.  
+     - A price calculator to count average prices by given parameters.  
+     - A dashboard showing the quantity of sold properties in different states and the sales distribution by months for effective data exploration.  
+- **Skills:** Analytical Thinking, Data Cleaning, Data Analysis, Data Visualization  
+- **Tools Used:** BigQuery SQL, Power BI  
+- **Code & Dashboards:**  
+  - SQL Scripts: [data_cleaning.sql](https://github.com/yourusername/real-estate-sql-analysis/data_cleaning.sql), [data_exploration.sql](https://github.com/yourusername/real-estate-sql-analysis/data_exploration.sql)  
+  - Power BI Dashboards: [real-estate-dashboards.pbix](https://github.com/yourusername/real-estate-sql-analysis/real-estate-dashboards.pbix), [real-estate-dashboards.pdf](https://github.com/yourusername/real-estate-sql-analysis/real-estate-dashboards.pdf)  
 ---
 
 ## Certifications  
