@@ -10,16 +10,11 @@ I’m **Syed Munazir Shajahan**, a Business Analyst with over 4 years of experie
 ### 1. **German Cars Data Analysis**  
 - **Description:** Analyzed 46,405 rows of data about cars on sale in Germany from 2011 to 2021. Gained insights, visualized trends, and created a dynamic presentation.  
 - **Skills:** Data Cleaning, Data Analysis, Visualization, Presentation  
-- **Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn), MS PowerPoint  
+- **Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn), MS PowerPoint
+- **Technical Deck:** 
 - **Code:** [German Cars Data Analysis](https://github.com/yourusername/german-cars-analysis)  
 
-### 2. **Adidas US Sales Data Analysis**  
-- **Description:** Used Excel to analyze sales data for Adidas products in the US for 2020-2021. Created interactive dashboards and reports.  
-- **Skills:** Data Analysis, Data Visualization, Report Creation  
-- **Tools Used:** Excel (Pivot Tables, Charts, Dashboards)  
-- **Code:** [Adidas Sales Analysis](https://github.com/yourusername/adidas-sales-analysis)  
-
-### 3. **Real Estate US SQL and Power BI Analysis**  
+### 2. **Real Estate US SQL and Power BI Analysis**  
 - **Description:**  
   The main goals of this project were:  
   1. To clean the dataset from Kaggle about real estate in the United States using SQL.  
